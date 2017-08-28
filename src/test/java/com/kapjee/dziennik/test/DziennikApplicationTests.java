@@ -1,4 +1,4 @@
-package com.kapjee.dziennik;
+package com.kapjee.dziennik.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
