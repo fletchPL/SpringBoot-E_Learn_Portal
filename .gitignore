@@ -1,0 +1,44 @@
++target/
++!.mvn/wrapper/maven-wrapper.jar
++
++### STS ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++
++bootstrap-theme.min.css.map
++bootstrap-theme.min
++bootstrap-theme.css.map
++bootstrap-theme
++bootstrap.min.css.map
++bootstrap.min
++bootstrap.css.map
++bootstrap.css
++glyphicons-halflings-regular.eot
++glyphicons-halflings-regular.svg
++glyphicons-halflings-regular.ttf
++glyphicons-halflings-regular.woff
++glyphicons-halflings-regular.woff2
++bootstrap.js
++bootstrap.min.js
++npm.js
++
++### IntelliJ IDEA ###
++.idea
++*.iws
++*.iml
++*.ipr
++
++### NetBeans ###
++nbproject/private/
++build/
++nbbuild/
++dist/
++nbdist/
++.nb-gradle/
++
++/.idea/*
++/.mvn/*
